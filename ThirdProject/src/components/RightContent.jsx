@@ -1,7 +1,7 @@
 import React from "react";
 
 const RightContent = (props) => {
-  console.log(props.users);
+  console.log(props);
   return (
     <div className=" w-2/3 p-3 ">
       <div className="h-full w-1/3  rounded-4xl relative overflow-hidden ">
